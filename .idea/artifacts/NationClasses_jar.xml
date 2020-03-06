@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NationClasses:jar">
+    <output-path>$PROJECT_DIR$/../Plugin Development/Output Jars</output-path>
+    <root id="archive" name="NationClasses.jar">
+      <element id="module-output" name="NationClasses" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>

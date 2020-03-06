@@ -1,0 +1,6 @@
+name: NationClasses
+Description: Adds the custom class system to the server!
+version: 1.0
+main: com.squallz.nationclasses.ClassesMain
+author: Squallz
+api-version: 1.13
