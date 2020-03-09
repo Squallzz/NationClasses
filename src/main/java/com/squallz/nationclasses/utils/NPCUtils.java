@@ -50,7 +50,7 @@ public class NPCUtils {
         String texture;
         String signature;
 
-        gameProfile.getProperties().put("textures", new Property("textures", texture, signature));
+        // gameProfile.getProperties().put("textures", new Property("textures", texture, signature));
     }
 
     public void show(Player target){
